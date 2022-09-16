@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+    font-size: 200%;
+  }
+  #instructions {
+    border: double 10px black;
+    padding: 8px;
+    width: 80%;
+    margin: auto;
+    background-color: darkgray;
+  }
